@@ -7,12 +7,5 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://richnicholson.github.io/training/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Club nights</title>
-      <link>https://richnicholson.github.io/training/club-nights/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://richnicholson.github.io/training/club-nights/</guid>
-      <description>&lt;p&gt;Details about our club nights.&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>
